@@ -1,0 +1,7 @@
+This is a sample text file.
+We will use it to practice Python's file handling techniques.
+It contains multiple lines of text.
+Feel free to experiment with reading and writing data into this file.
+
+This is a new line appended to the file.
+This is a test line to demostrate appending in a list
